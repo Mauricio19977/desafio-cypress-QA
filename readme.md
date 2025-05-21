@@ -94,11 +94,6 @@ $ npm run test
 
 ### MAURÍCIO ÁVILA
 
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/ad667386-d23e-4be3-9304-c3f137c59ce6" width="200px" />
-</div>
-
 #### Analista de Qualida de Software
 
 </span>
