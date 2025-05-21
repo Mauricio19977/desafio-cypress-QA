@@ -94,7 +94,7 @@ $ npm run test
 
 ### MAURÍCIO ÁVILA
 
-#### Analista de Qualida de Software
+#### Analista de Qualidade de Software
 
 </span>
 
