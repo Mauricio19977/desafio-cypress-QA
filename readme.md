@@ -1,8 +1,3 @@
-<h1 align="center">
-    <img src="" alt="PGE" height="100" width="200">
-    <br>
-</h1>
-
 <h4 align="center" style="color: white; font-size: 20px;">
     🚧 AUTOMAÇÃO DE TESTES | FRONT-END 🚧
 </h4>
