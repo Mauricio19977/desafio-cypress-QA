@@ -15,7 +15,6 @@ describe('suite de testes executando cenarios realacionado ai carrinho', () => {
         Methods.validateElementPresent(HomeElementos.validateUser)
     });
     it('Adicionar um produto ao carrinho', () => {
-        
         Methods.clickElement(HomeElementos.buttonBuy)
         Methods.clickElement(ProductElements.btnImg)
         Methods.click(ProductElements.buttonM)
@@ -25,9 +24,7 @@ describe('suite de testes executando cenarios realacionado ai carrinho', () => {
         Methods.click(ProductElements.buttonCart)
         Methods.validateElementPresent(CartElements.buttonCoupon)
     });
-
     it.only('Adicionar um produto ao carrinho e excluir o produto', () => {
-        
         Methods.clickElement(HomeElements.buttonBuy)
         Methods.clickElement(ProductElements.btnImg)
         Methods.click(ProductElements.buttonM)

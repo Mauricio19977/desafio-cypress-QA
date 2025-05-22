@@ -3,10 +3,11 @@ import LoginElements from "../Elements/loginElements";
 import Users from "../../fixtures/users";
 import HomeElements from "../Elements/homeElements";
 describe("suit de testes executando cenarios de login", () => {
+
   beforeEach("", () => {
+    
     Methods.aberturaDeSite();
   });
-
   it("Logout com sucesso", () => {
     Methods.click(LoginElements.buttonLogin);
     Methods.inputText(LoginElements.inputUser, Users.userName);

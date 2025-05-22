@@ -34,7 +34,7 @@ Essa automação tem como meta, sempre garantir uma experiência <strong>ÚNICA<
 <pre>
 <code class="language-bash">
 <span style="color: #20c997;"># Clonar o repositório</span>
-$ "Link do gitHub aqui"
+$ "https://github.com/Mauricio19977/desafio-cypress-QA.git"
 
 <span style="color: #20c997;"># Instalar o Cypress</span>
 $ npm install cypress --save-dev

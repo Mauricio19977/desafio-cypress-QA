@@ -5,9 +5,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Maurício Soares de Ávila",
   "license": "ISC",
-  "description": "",
+  "description": "Validando funcionalidades adequadas a necessidade do cliente",
   "devDependencies": {
     "cypress": "^14.3.3"
   }
