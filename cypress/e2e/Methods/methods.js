@@ -2,7 +2,7 @@ export class Methods {
 
     static aberturaDeSite() {
         cy.fixture('example.json').then((site) => {
-            cy.visit(site.baseUrl, { failOnStatusCode: false });
+            cy.visit(site.baseUrl, { failOnStatusCode: false })
         })
     }
 
@@ -15,7 +15,7 @@ export class Methods {
     }
 
     static inputText(element, text) {
-        cy.get(element).type(text, { force: true }).should('have.value', text);
+        cy.get(element).type(text, { force: true }).should('have.value', text)
     }
 
     static validateElementPresent(element){
