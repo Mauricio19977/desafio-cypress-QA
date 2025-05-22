@@ -4,7 +4,8 @@ export const ProductElements = {
     buttonM: ('li[title="M"]'),
     buttonRed: ('li[title="Red"]'),
     buttonSubmit: ('button[class="single_add_to_cart_button button alt"]'),
-    buttonCart: ('a[class="button wc-forward"]'),
+    buttonCart: ('a[class="button wc-forward"]')
+    
 }
 
 export default ProductElements; 
